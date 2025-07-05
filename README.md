@@ -1,0 +1,1 @@
+Pyru is a smart and multilingual chatbot developed as a personal project to support farmers with timely, relevant, and localized agricultural guidance. Built with simplicity and accessibility in mind, Pyru helps farmers get information in their native language through an intuitive conversation interface.
